@@ -121,8 +121,6 @@ I'm currently doing an internship, where I continue to improve my development sk
 </p>
 
 ---
+<h2 align="left">GitHub Streak</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasaskamp&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasaskamp&layout=compact&card_width=320&langs_count=6&theme=dracula" height="150" alt="languages graph" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=lucasaskamp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
