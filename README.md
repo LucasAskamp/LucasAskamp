@@ -19,6 +19,8 @@
   />
 </picture>
 
+![Visitor Count](https://profile-counter.glitch.me/{LucasAskamp}/count.svg)
+
 ---
 
 <h2 align="left">About me</h2>
