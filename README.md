@@ -19,10 +19,6 @@
   />
 </picture>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasAskamp&label=PROFILE+VIEWS&color=dc143c&style=for-the-badge" alt="Profile views" />
-</p>
-
 ---
 
 <h2 align="left">About me</h2>
